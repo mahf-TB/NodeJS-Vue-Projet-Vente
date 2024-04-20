@@ -13,7 +13,8 @@
                                 </h4>
                                 <p class="mt-2 text-base text-gray-600">
                                     Here you can find more details about your projects. Keep you user
-                                    engaged by providing meaningful information.
+                                    engaged by providing meaningful information. hello 
+                                    git 
                                 </p>
                             </div>
                         </div>
